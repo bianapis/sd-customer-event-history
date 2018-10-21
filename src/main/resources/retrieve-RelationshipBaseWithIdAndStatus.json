@@ -1,0 +1,10 @@
+{
+  "customerRelationshipEventRecord" : "captured information/details in the log",
+  "customerRelationshipEventType" : "advisory",
+  "customerEventLogReference" : "CELR7546464",
+  "employeeUnitReference" : "EUR736465",
+  "customerRelationshipEventAction" : "agreed follow-up activity",
+  "dateTimeLocation" : "2018-03-28 12:30:00 CST Dallas USA",
+  "customerRelationshipEventReference" : "CRER73464565",
+  "customerRelationshipEventResult" : "successful"
+}

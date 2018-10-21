@@ -1,0 +1,12 @@
+{
+  "customerSalesEventRecord" : "captured information/details in the log",
+  "customerSalesEventType" : "solicited",
+  "customerEventLogReference" : "CELR7634646",
+  "employeeUnitReference" : "EUR7236464",
+  "dateTimeLocation" : "2018-03-28 12:30:00 CST Dallas USA",
+  "customerSalesEventReference" : "CSER7354646",
+  "commissionAgreementReference" : "CAR736464",
+  "leadOpportunityReference" : "LOR736464",
+  "customerSalesEventResult" : "customerSalesEventResult",
+  "productServiceType" : "Product Service Type"
+}

@@ -1,0 +1,14 @@
+{
+  "channelDeviceType" : "device type",
+  "accessedProductService" : "referenced products/services",
+  "customerEventLogReference" : "CELR726464",
+  "customerServicingEventReference" : "CSER735454",
+  "dateTimeLocation" : "2018-03-28 12:30:00 CST Dallas USA",
+  "customerServicingEventResult" : "successful",
+  "customerContactDialogueRecordReference" : "CDRR736464",
+  "employeeUnit Reference" : "EUR63544",
+  "customerServicingEventRecord" : "captured information/details in the log",
+  "contactResult" : "successful",
+  "customerServicingEventType" : "assisted",
+  "contactPurpose" : "purpose for contact"
+}

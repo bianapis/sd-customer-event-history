@@ -1,0 +1,11 @@
+{
+  "customerFraudEventReference" : "CFER7364645",
+  "accessedProductService" : "referenced products/services if provided",
+  "customerEventLogReference" : "CELR735464",
+  "employeeUnitReference" : "EUR736464",
+  "customerFraudCaseEventType" : "stolen card",
+  "fraudCaseReference" : "FCR736474",
+  "dateTimeLocation" : "2018-03-28 12:30:00 CST Dallas USA",
+  "customerContactDialogueRecordReference" : "CDRR737464",
+  "customerFraudEventResult" : "successful"
+}
